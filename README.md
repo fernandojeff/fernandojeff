@@ -10,8 +10,11 @@ Currently, I'm embarking on the software development journey, exploring various 
 
 ## Academic Background
 
-- **Instituto de Ciência e Tecnologia do Rio de Janeiro**
+- **Instituto de Ciência e Tecnologia do Rio de Janeiro - IFRJ**
   - Técnico em Informática</p>&nbsp;
+
+- **Universidade Federal Fluminense - UFF**
+  - Ciência da Computação</p>&nbsp;
 
 <div align="center">
   <a href="https://github.com/fernandojeff">
