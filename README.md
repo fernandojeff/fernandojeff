@@ -1,14 +1,14 @@
-##  Hello, I'm Fernando Jefferson. 👋
+##  Olá, sou o Fernando Jefferson. 👋
 
 <p align="center">
-I'm a programming enthusiast and a professional with a degree in Computer Technician from the Institute of Science and Technology in Rio de Janeiro.
+Sou um entusiasta de programação e profissional formado em Técnico em Informática pelo Instituto de Ciência e Tecnologia do Rio de Janeiro, atualmente faço Ciência da Computação na UFF.
 
   
-## About Me
+## Sobre mim
 
-Currently, I'm embarking on the software development journey, exploring various programming languages and technologies. This repository serves as a space to share my projects, learnings, and contributions to the community.
+Atualmente, estou embarcando na jornada de desenvolvimento de software, explorando diversas linguagens e tecnologias de programação. Este repositório serve como um espaço para compartilhar meus projetos, aprendizados e contribuições para a comunidade.
 
-## Academic Background
+## Formação Acadêmica
 
 - **Instituto de Ciência e Tecnologia do Rio de Janeiro - IFRJ**
   - Técnico em Informática</p>&nbsp;
@@ -26,9 +26,9 @@ Currently, I'm embarking on the software development journey, exploring various 
 
 
 
-## My Skills
+## Minhas habilidades
 
-#### Main Stack:
+#### Linguens de programação:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -42,7 +42,7 @@ Currently, I'm embarking on the software development journey, exploring various 
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contato:
 
 <div> 
 <a href = "mailto:fernandojefferson321@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
