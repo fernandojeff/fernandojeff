@@ -12,7 +12,6 @@ Currently, I'm embarking on the software development journey, exploring various 
 
 - **Instituto de Ciência e Tecnologia do Rio de Janeiro - IFRJ**
   - Técnico em Informática</p>&nbsp;
-
 - **Universidade Federal Fluminense - UFF**
   - Ciência da Computação</p>&nbsp;
 
