@@ -1,12 +1,8 @@
 ##  Olá, sou o Fernando Jefferson. 👋
-
-<p align="center">
-Sou um entusiasta de programação e profissional formado em Técnico em Informática pelo Instituto de Ciência e Tecnologia do Rio de Janeiro, atualmente faço Ciência da Computação na UFF.
-
   
 ## Sobre mim
 
-Atualmente, estou embarcando na jornada de desenvolvimento de software, explorando diversas linguagens e tecnologias de programação. Este repositório serve como um espaço para compartilhar meus projetos, aprendizados e contribuições para a comunidade.
+Atualmente, estou embarcando na jornada de desenvolvimento de software, explorando diversas linguagens e tecnologias de programação. Estes repositórios servem como um espaço para compartilhar meus projetos, aprendizados e contribuições para a comunidade.
 
 ## Formação Acadêmica
 
